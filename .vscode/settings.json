@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 14,
+    "editor.autoIndent": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.mouseWheelZoom": false,
+    "explorer.sortOrder": "default",
+    "explorer.autoReveal": true,
+    "explorer.incrementalNaming": "smart",
+    "explorer.decorations.badges": true,
+    "explorer.decorations.colors": true,
+    "explorer.openEditors.visible": 9,
+    "workbench.tree.indent": 30
+}

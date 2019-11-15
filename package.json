@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Protractor Self Practice to automate Angular Apps",
+  "main": "index.js",
+  "dependencies": {
+    "exceljs": "^3.4.0",
+    "faker": "^4.1.0",
+    "jasmine": "^3.5.0",
+    "log4js": "^5.3.0",
+    "protractor": "^5.4.2",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-reporters": "^2.3.2"
+  }
+}
