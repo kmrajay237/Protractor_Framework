@@ -275,16 +275,16 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "passed": true,
         "pending": false,
         "os": "windows nt",
-        "sessionId": "93c56d48abe09ec0b2d8e77092f64d1f",
-        "instanceId": 4876,
+        "sessionId": "14cdbb8e93fa50bafe48c26de1efb895",
+        "instanceId": 5112,
         "browser": {
             "name": "chrome",
             "version": "78.0.3904.97"
         },
         "message": "Passed",
         "browserLogs": [],
-        "timestamp": 1573621408272,
-        "duration": 33495
+        "timestamp": 1573816986337,
+        "duration": 33897
     }
 ];
 
