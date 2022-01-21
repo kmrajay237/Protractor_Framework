@@ -7,7 +7,7 @@
     "exceljs": "^3.4.0",
     "faker": "^4.1.0",
     "jasmine": "^3.5.0",
-    "log4js": "^5.3.0",
+    "log4js": "^6.4.0",
     "protractor": "^5.4.2",
     "protractor-html-reporter-2": "^1.0.4"
   },
