@@ -17,6 +17,6 @@
   "author": "Ajay",
   "license": "ISC",
   "devDependencies": {
-    "jasmine-reporters": "^2.3.2"
+    "jasmine-reporters": "^2.5.0"
   }
 }
